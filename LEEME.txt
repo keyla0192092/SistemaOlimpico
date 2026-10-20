@@ -1,0 +1,6 @@
+SISTEMA OLÍMPICO ANDINO
+1. Descomprime el ZIP.
+2. Abre la carpeta OLIMPICO_ANDINO en Visual Studio Code.
+3. Abre index.html con Live Server o directamente en tu navegador.
+Las imágenes PNG tienen transparencia real. El calendario y los resultados son ejemplos académicos, no información oficial.
+La descripción, calendario y resultados desarrollados corresponden a Atletismo, conforme a la consigna.
